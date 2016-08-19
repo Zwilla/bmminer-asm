@@ -9,4 +9,5 @@ changes
 
 only rename bmminer into cgminer, to that what it is.
 
-I hope the github team will not delete this binary
+I hope the github team will not delete this binary, if yes?! Here is a link to it also:
+https://www.zwilla.de/wp-content/uploads/2016/08/cgminer-S9
